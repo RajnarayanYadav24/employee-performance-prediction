@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Performance Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+    <h2>Enter Employee Details</h2>
+    <form method="POST" action="/predict">
+        <label>Age:</label><br>
+        <input type="number" name="age" required><br><br>
+
+        <label>Department:</label><br>
+        <select name="department">
+            <option>Sales</option>
+            <option>Tech</option>
+            <option>HR</option>
+        </select><br><br>
+
+        <label>Education (1-5):</label><br>
+        <input type="number" name="education" min="1" max="5" required><br><br>
+
+        <label>Gender:</label><br>
+        <select name="gender">
+            <option>Male</option>
+            <option>Female</option>
+        </select><br><br>
+
+        <label>Years at Company:</label><br>
+        <input type="number" name="years" required><br><br>
+
+        <label>Training Hours:</label><br>
+        <input type="number" name="training" required><br><br>
+
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction_text %}
+        <h3>{{ prediction_text }}</h3>
+    {% endif %}
+</body>
+</html>

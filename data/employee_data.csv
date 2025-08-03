@@ -1,0 +1,11 @@
+EmployeeID,Age,Department,Education,Gender,YearsAtCompany,TrainingHours,PerformanceRating
+101,35,Sales,3,Male,5,40,3
+102,29,Tech,4,Female,2,20,2
+103,41,HR,2,Female,7,50,4
+104,28,Tech,3,Male,1,10,2
+105,33,Sales,4,Female,4,25,3
+106,45,Tech,5,Male,10,60,4
+107,38,HR,2,Male,6,30,3
+108,26,Sales,3,Female,2,15,2
+109,32,Tech,3,Male,3,35,3
+110,39,HR,4,Female,8,45,4
