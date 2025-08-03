@@ -82,9 +82,7 @@ Input Form	Prediction Result
 # 🙌 Author
 Rajnarayan Yadav
 
-LinkedIn
 
-GitHub
 
 
 
