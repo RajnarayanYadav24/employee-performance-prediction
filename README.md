@@ -77,7 +77,6 @@ employee-performance-prediction/
  python app.py
 
 # 📷 Screenshots
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/458b744d-f455-4f4f-8119-9903f8041bc8" />
   <img width="1872" height="904" alt="image" src="https://github.com/user-attachments/assets/a9aa596d-c37e-4ae3-86bb-04af43535112" />
   <img width="1785" height="510" alt="image" src="https://github.com/user-attachments/assets/aa0cd9a6-e0cb-473b-ad6e-51a4fe8cf4dd" />
   <img width="1852" height="853" alt="image" src="https://github.com/user-attachments/assets/b7864397-ae09-428f-8047-a4c72aed179a" />
