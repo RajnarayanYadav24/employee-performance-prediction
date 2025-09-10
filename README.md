@@ -77,7 +77,20 @@ employee-performance-prediction/
  python app.py
 
 # 📷 Screenshots
-Input Form	Prediction Result
+  <img width="1872" height="904" alt="image" src="https://github.com/user-attachments/assets/a9aa596d-c37e-4ae3-86bb-04af43535112" />
+  <img width="1785" height="510" alt="image" src="https://github.com/user-attachments/assets/aa0cd9a6-e0cb-473b-ad6e-51a4fe8cf4dd" />
+  <img width="1852" height="853" alt="image" src="https://github.com/user-attachments/assets/b7864397-ae09-428f-8047-a4c72aed179a" />
+  <img width="1855" height="667" alt="image" src="https://github.com/user-attachments/assets/697c02b2-2025-4bd7-8606-2e49ac69019e" />
+  <img width="1803" height="818" alt="image" src="https://github.com/user-attachments/assets/c1fc827c-0736-42e4-8e13-13990f433b93" />
+  <img width="1587" height="586" alt="image" src="https://github.com/user-attachments/assets/096de411-565f-419c-9876-6eae11679a8b" />
+
+
+
+
+
+
+
+
 
 # 🙌 Author
 Rajnarayan Yadav
